@@ -1111,7 +1111,16 @@ footer ul li a:hover {
   .container{
     width: 97%;
    }
-  
+
+/*  */
+	  .title{
+    font-size: 22px;
+   }
+
+   .header__left p{
+    font-size: 15px;
+   }
+/*    */
    /* nav bar */
     .nav__menu{
       right: 1%;
