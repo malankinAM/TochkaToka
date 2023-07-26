@@ -1130,6 +1130,9 @@ footer ul li a:hover {
   .categories__left p{
     font-size: 15px;
   }
+	 .featured .heading{
+    font: size 22px; ;
+  }
 	
 /*    */
    /* nav bar */
