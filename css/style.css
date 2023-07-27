@@ -1111,6 +1111,10 @@ footer ul li a:hover {
   .container{
     width: 97%;
    }
+  .logo .bound{
+    width: auto;
+   }
+	
 
 /*  */
 	  .title{
